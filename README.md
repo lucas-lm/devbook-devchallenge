@@ -3,10 +3,6 @@
 
 A bingo book of github devs
 
-
-
-
-
 # Welcome :)
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your code skills!
 
@@ -16,6 +12,7 @@ Your challenge is to build a 3 pages website (home/landing page, search results 
 ## Requirements:
 - Homepage should have a search bar where user can search for github users
 - Homepage should have a carousel section that shows the top github users
+- Github user's card should have a name, username and bio.
 - When user performs a search, it should redirect to the results page where the best matches for that search is shown.
 - Whenever a user clicks in a github user card, it should redirects to that github user's page where is shown that user's github stats and repos
 
@@ -25,6 +22,12 @@ Your challenge is to build a 3 pages website (home/landing page, search results 
 - JS
 
 You can also use React.js or any other framework you prefer.
+
+## Bonus point
+
+- Create light mode and a switch in the navbar to enable it
+- Add contact info of github users in the users' card and users' details
+- Create a filter for searching only the hireable ones
 
 # Getting start:
 1 - Use this template or download this repository with the starter code<br>
@@ -37,7 +40,7 @@ You can also use React.js or any other framework you prefer.
 Feel free to use any workflow you are comfortable with :)
 
 # Design:
-Check it out on figma or download the .fig file at `./design`
+Check it out on [figma](https://www.figma.com/file/VEMlScBkM2J9lQ1dMayXpP/devbook?node-id=1%3A4) or download the .fig file at `./design`
 
 ## Colors
 ```js
