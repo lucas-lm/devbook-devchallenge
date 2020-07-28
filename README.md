@@ -21,12 +21,11 @@ Your challenge is to build a 3 pages website (home/landing page, search results 
 - CSS
 - JS
 
+You can also use React.js or any other framework you prefer.
+
 ### Hints
 - You can create your own octocat [here](https://myoctocat.com/build-your-octocat/) to use in your project. Don't forget to remove the white background of your octocat image on photoshop or any other image editor.
 - Use [search params](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams) to generate dynamic pages for the search page. Example: `https://book.dev/search?query=<lucas>`
-
-
-You can also use React.js or any other framework you prefer.
 
 ## Bonus point
 
