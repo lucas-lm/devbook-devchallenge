@@ -9,17 +9,22 @@ A bingo book of github devs
 # Challenge
 Your challenge is to build a 3 pages website (home/landing page, search results and user details) consuming [github](https://docs.github.com/en/rest/reference/search) and [github stats](https://github.com/anuraghazra/github-readme-stats) public APIs.
 
-## Requirements:
+## Requirements
 - Homepage should have a search bar where user can search for github users
 - Homepage should have a carousel section that shows the top github users
 - Github user's card should have a name, username and bio.
 - When user performs a search, it should redirect to the results page where the best matches for that search is shown.
 - Whenever a user clicks in a github user card, it should redirects to that github user's page where is shown that user's github stats and repos
 
-### Techs: 
+### Techs
 - HTML
 - CSS
 - JS
+
+### Hints
+- You can create your own octocat [here](https://myoctocat.com/build-your-octocat/) to use in your project. Don't forget to remove the white background of your octocat image on photoshop or any other image editor.
+- Use [search params](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams) to generate dynamic pages for the search page. Example: `https://book.dev/search?query=<lucas>`
+
 
 You can also use React.js or any other framework you prefer.
 
@@ -28,8 +33,9 @@ You can also use React.js or any other framework you prefer.
 - Create light mode and a switch in the navbar to enable it
 - Add contact info of github users in the users' card and users' details
 - Create a filter for searching only the hireable ones
+- Create [skeletons](https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a) to be shown while data is fetching in order to improve the website UX. In the design files and figma you can find skeletons models for the cards.
 
-# Getting start:
+# Getting start
 1 - Use this template or download this repository with the starter code<br>
 2 - Read the instructions in readme.md<br>
 3 - Start coding!<br>
