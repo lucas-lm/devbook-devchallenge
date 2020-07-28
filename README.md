@@ -13,7 +13,6 @@ A bingo book of github devs
   - [Challenge](#challenge)
     - [Requirements](#requirements)
       - [Techs](#techs)
-    - [Techs](#techs)
     - [Hints](#hints)
     - [Bonus Points](#bonus-points)
   - [Get Started](#get-started)
