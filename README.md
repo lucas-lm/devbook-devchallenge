@@ -3,6 +3,8 @@
 
 A bingo book of github devs
 
+![](/static/banner.png)
+
 # Welcome :)
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your code skills!
 
