@@ -40,7 +40,7 @@ You can also use React.js or any other framework you prefer.
 Feel free to use any workflow you are comfortable with :)
 
 # Design:
-Check it out on [figma](https://www.figma.com/file/VEMlScBkM2J9lQ1dMayXpP/devbook?node-id=1%3A4) or download the .fig file at `./design`
+Check it out on [figma](https://www.figma.com/file/VEMlScBkM2J9lQ1dMayXpP/devbook?node-id=1%3A4) or download the [.fig file](https://github.com/lucas-lm/devbook-devchallenge/blob/master/design/devbook.fig) at `./design`
 
 ## Colors
 ```js
